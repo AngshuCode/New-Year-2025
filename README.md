@@ -52,10 +52,6 @@ project-folder/
 3. **Add More Elements**:
    - Add fireworks animations, a custom message, or any other creative elements to the `index.html` and `style.css` files.
 
-## Preview
-
-You can view the live demo [here](https://angshucode.github.io/New-Year-2025/).
-
 ## License
 
 This project is free to use and modify for personal or educational purposes.
