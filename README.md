@@ -54,8 +54,7 @@ project-folder/
 
 ## Preview
 
-![New Year Countdown live](https://angshucode.github.io/New-Year-2025/)  
-*Example of the New Year 2025 countdown interface*
+You can view the live demo [here](https://angshucode.github.io/New-Year-2025/).
 
 ## License
 
